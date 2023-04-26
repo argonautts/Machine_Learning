@@ -1,6 +1,6 @@
 # Machine Learning Course
 
-You think you've figured it out, when in fact you just think you've figured out what you're thinking.
+> You think you've figured it out, when in fact you just think you've figured out what you're thinking.
 
 ## Course Information
 Topics:
@@ -17,7 +17,7 @@ Topics:
 - - K Nearest Neighbors
 - - Decision Trees
 - - Random Forests
-- - AdaBoost, GradientBoosting
+- - AdaBoost, GradientBoosting  
 - - Natural Language Processing
 - - K Means Clustering
 - - Hierarchical Clustering
@@ -25,6 +25,10 @@ Topics:
 - - PCA - Principal Component Analysis
 - - etc.
 
+## Machine learning world map
+
+![Machine Learning Map](images/mlMap.png)
+The source of the following machine learning topics map is [this wonderful blog post](https://vas3k.ru/blog/machine_learning/)
 
 ## Setup
 #### Installing Python
